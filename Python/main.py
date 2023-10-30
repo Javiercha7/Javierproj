@@ -3,8 +3,9 @@ Option2 = "no"
 total = 0
 total2 = 0
 q1 = "Would You rather eat a Hawaian pizza or a Meatza? "
+# Question used for the user
 q2 = "Would You rather Go "
-# user = Option2
+#
 
 def userYes():
   global total 
